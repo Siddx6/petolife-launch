@@ -8,8 +8,7 @@
 
 ## 🔗 Live Site
 
-👉 **[View Live →](https://your-username.github.io/petolife-launch)**  
-*(Replace with your deployed URL after setup)*
+👉 **[View Live →](https://Siddx6.github.io/petolife-launch)**
 
 ---
 
@@ -30,7 +29,7 @@ Zero dependencies. Zero build steps. One file.
 ### Option 1: Just Open the File (Quickest)
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/petolife-launch.git
+git clone https://github.com/Siddx6/petolife-launch.git
 
 # Navigate into the folder
 cd petolife-launch
@@ -60,14 +59,6 @@ npx serve .
 That's it. No `npm install`. No `.env` files. No config.
 
 ---
-
-## 🌐 Deploy as Live Site (Free — Under 2 Minutes)
-
-### GitHub Pages
-1. Push this repo to GitHub
-2. Go to **Settings → Pages**
-3. Set source to `main` branch → `/ (root)`
-4. Your site is live at `https://your-username.github.io/petolife-launch`
 
 ### Vercel (Recommended for speed)
 ```bash
@@ -111,7 +102,7 @@ npx netlify-cli deploy --prod --dir .
 
 | Tool | Usage |
 |---|---|
-| **Claude (Anthropic)** | Full page architecture, design system, HTML/CSS/JS code generation |
+| **Claude (Anthropic)** | HTML/CSS code generation |
 | **Prompt Engineering** | Iterative prompts for layout, animation, color palette, and copy |
 
 Per challenge guidelines, AI usage is explicitly disclosed and encouraged. All code was reviewed, understood, and validated by the developer before submission.
@@ -130,9 +121,9 @@ Per challenge guidelines, AI usage is explicitly disclosed and encouraged. All c
 
 ## 👤 Submitted By
 
-**[Your Name]**  
+**[Siddharth Kumar]**  
 Full Stack Engineer — Summer Internship Applicant  
-📧 your@email.com · 🔗 linkedin.com/in/yourprofile · 💻 github.com/your-username
+📧 siddharthkumar6669@email.com · 🔗 www.linkedin.com/in/siddharth-kumar-508333333 · 💻 github.com/Siddx6
 
 ---
 
